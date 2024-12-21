@@ -1,0 +1,7 @@
+{
+  "name": "zakuper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "com.zakuper.app",
+  "appName": "ZaKuper",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
